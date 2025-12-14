@@ -1,0 +1,14 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14
+drf-spectacular>=0.27
+django-cors-headers>=4.3
+daphne>=4.0
+channels>=4.0
+channels-redis>=4.1
+psycopg2-binary>=2.9
+aiokafka>=0.10
+requests>=2.31
+python-dotenv>=1.0
+polyline>=2.0
+watchdog>=3.0
+
