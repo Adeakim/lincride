@@ -319,11 +319,6 @@ Kafka is automatically set up via Docker Compose. The configuration includes:
 - **Kafka Broker**: Port 9092 (external), 29092 (internal)
 - **Topic**: `trip-location-updates` (auto-created)
 
-For production, consider:
-- Multiple broker instances
-- Topic replication
-- Consumer groups for scaling
-
 ## License
 
 MIT License
